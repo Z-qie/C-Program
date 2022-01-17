@@ -1,3 +1,3 @@
-# C-Program
+# C-Program on Terminal
 
 ![image](exp.png)
